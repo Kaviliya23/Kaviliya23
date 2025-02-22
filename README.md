@@ -9,7 +9,8 @@
 I'm an undergraduate student at the **University of Jaffna, Vavuniya Campus**, pursuing a degree in **Information and Communication Technology (Honors)**. I'm passionate about **web development** and eager to apply my skills in **front-end**, **back-end**, and **full-stack development** roles.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindunishshanka&label=Profile%20views&color=0e75b6&style=flat" alt="tharindunishshanka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavindi 
+                        liyanwala&label=Profile%20views&color=0e75b6&style=flat" alt="gavindi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
