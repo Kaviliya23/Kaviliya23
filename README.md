@@ -1,7 +1,7 @@
 # my-profile
 
 <div align=center>
-        <img src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=2&uuid=9409df39-21d8-4bba-9f32-7083d9b5d296&query=Github+Character"alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="" alt="it girl student " height="200">
     </div>
 <h1 align="center">Hi 👋, I'm Gavindi Liyanwala</h1>
 <h3 align="center">A passionate ICT Student | Exploring from Sri Lanka</h3>
