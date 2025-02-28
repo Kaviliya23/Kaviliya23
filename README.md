@@ -1,21 +1,13 @@
 # my-profile
 
-<div align=center>
-        <img src="" alt="it girl student " height="200">
-    </div>
+
 <h1 align="center">Hi 👋, I'm Gavindi Liyanwala</h1>
 <h3 align="center">A passionate ICT Student | Exploring from Sri Lanka</h3>
 
 I'm an undergraduate student at the **University of Jaffna, Vavuniya Campus**, pursuing a degree in **Information and Communication Technology (Honors)**. I'm passionate about **web development** and eager to apply my skills in **front-end**, **back-end**, and **full-stack development** roles.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gavindi 
-                        liyanwala&label=Profile%20views&color=0e75b6&style=flat" alt="gavindi" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="linkedin.com/in/gavindi-liyanwala-a5a277214" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" alt="gavindi" height="" width="" /></a>
-</p>
 
 
 ---
