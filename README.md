@@ -42,6 +42,10 @@ I'm an undergraduate student at the **University of Jaffna, Vavuniya Campus**, p
 - 🚗 **Vehicle Parking Management System** (PHP)  
   A group project that automates parking space management, including slot reservations and availability tracking.
 
+  📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaviliya23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviliya23&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Let's Connect
