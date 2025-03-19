@@ -1,7 +1,8 @@
 # my-profile
 
-![Web Developer Women](https://raw.githubusercontent.com/Kaviliya23/Kaviliya23/refs/heads/main/developer%20women.webp)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kaviliya23/Kaviliya23/refs/heads/main/developer%20women.webp" alt="Web Developer Women" width="400" align="center"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Gavindi Liyanwala</h1>
