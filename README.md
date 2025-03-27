@@ -26,7 +26,7 @@ I'm an undergraduate student at the **University of Jaffna, Vavuniya Campus**, p
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js, Python(Django), PHP,C,C#
+- **Backend:** Node.js, Express.js, Python(Django), PHP,C,C#,Next.js,C
 - **Databases:** MongoDB, MySQL
 - **Tools & Platforms:** GitHub, Git, VSCode,Figma
 
